@@ -8,6 +8,8 @@ body{
 }
 
 .main{
+    height:600px;
+    width:100%;
     background-image: url("../img/flower-build.jpg");
     background-position-y: 55%;
     /* background-position-x: 10%; */
